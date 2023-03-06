@@ -1,0 +1,18 @@
+{
+  "name": "mocha1",
+  "version": "1.0.0",
+  "description": "api test",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "author": "chandrasekaran E",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.3.7",
+    "chai-http": "^4.3.0",
+    "express": "^4.18.2",
+    "mocha": "^10.2.0",
+    "nyt": "^0.1.0"
+  }
+}
